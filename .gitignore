@@ -1,2 +1,4 @@
-*.jpg
-*.png
+Kaggleface/*.jpg
+Kaggleface/*.png
+UTKface/*.jpg
+UTKdfce/*.png
